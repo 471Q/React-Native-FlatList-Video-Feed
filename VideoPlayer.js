@@ -47,8 +47,7 @@ const VideoPlayer =()=>{
         <InViewPort onChange={handlePlaying}>
         <Video
           ref={video}
-          //source={{ uri: 'http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4' }}
-          source={require("./src/art.mp4")}
+          source={{ uri: 'http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4' }}
           rate={1.0}
           volume={7.0}
           isLooping
