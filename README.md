@@ -10,7 +10,7 @@ Features include:
 6.	Moving to previously seen video starts the video from the initial position
 7.	Video loops on the end
 
-##How To Use
+## How To Use
 ```
 To clone and run this application, you'll need Git, Node.js v10.16 or higher. From your command line:
 
