@@ -8,7 +8,7 @@
  2. Post Snap to next/prev video like tiktok
  3. Play/Pause on Tap
  4. Play video which is in visible view
- 5. Stop video outside visile view
+ 5. Stop video outside visible view
  6. Moving to previously seen video starts the video from inital position
  7. Video loops on end 
 
